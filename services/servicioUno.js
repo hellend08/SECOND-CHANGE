@@ -2,7 +2,7 @@
 
 new Vue({
   el: '#app',
-  message: 'Hello Vue!'
+  message: 'Hello Vue!',
   data () {
     return {
       info: null
